@@ -8,7 +8,7 @@
 "scenarios": {
     "open_page": {
          "browser": "Chrome",
-         "timeout": "12s",
+         "timeout": "13s",
          "think-time": "4s",
          "requests": [
                      {
