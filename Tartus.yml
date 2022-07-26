@@ -8,8 +8,8 @@
 "scenarios": {
     "open_page": {
          "browser": "Chrome",
-         "timeout": "13s",
-         "think-time": "4s",
+         "timeout": "12s",
+         "think-time": "3s",
          "requests": [
                      {
 "url": "http:\/\/blazedemo.com"
