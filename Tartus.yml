@@ -9,7 +9,7 @@
     "open_page": {
          "browser": "Chrome",
          "timeout": "12s",
-         "think-time": "3s",
+         "think-time": "2s",
          "requests": [
                      {
 "url": "http:\/\/blazedemo.com"
